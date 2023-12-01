@@ -5,7 +5,7 @@ restaurant without SQLAlchemy  consisting of 3 deliverables: Object Relationship
 This restaurant review system provides a structured and extensible foundation for managing customer information, restaurant details, and review records. Further development can involve implementing additional functionalities, such as user authentication, search capabilities, and data persistence mechanisms.
 
 ## How to install
-git clone git@github.com:joelnyongesa/Phase-3-Week-2-Code-Challenge.git
+github:: https://github.com/JOYCEmwangi8880
 
 Navigate into the cloned repository. In your terminal, open the repository in visual studio code using code . then create a virtual environment using pipenv shell.
 
