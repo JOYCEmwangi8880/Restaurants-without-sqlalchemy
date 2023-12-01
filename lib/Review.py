@@ -18,7 +18,7 @@ class Review:
     
     
         
-        # Example usage:
+#Example usage:
 # customer1 = "Joyce"
 # restaurant1 = "art cafe"
 # rating1 = 4
